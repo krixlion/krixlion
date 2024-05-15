@@ -1,8 +1,8 @@
 # Hello world!
 
 ## About me
-I'm a Backend Developer, currently studying Computer Science at the Vistula University.\
-I like playing volleyball and I enjoy a good story-rich video game.
+I'm a Backend Developer from Poland, currently studying Computer Science at the Vistula University.\
+Outside of programming I like playing volleyball and I enjoy a good story-rich video game.
 
 You can access all my open-source projects here on Github.
 
