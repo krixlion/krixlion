@@ -7,4 +7,4 @@ Outside of programming I like playing volleyball and I enjoy a good story-rich v
 You can access all my open-source projects here on Github.
 
 ## Contact
-Feel free to contact me by sending me an [email](mailto:konstanty.cyran.k@gmail.com) or messaging me on [Linkedin](https://www.linkedin.com/in/konstanty-cyran).
+Feel free to contact me by pinging me on GitHub or messaging me on [Linkedin](https://www.linkedin.com/in/konstanty-cyran).
