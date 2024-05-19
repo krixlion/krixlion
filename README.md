@@ -2,8 +2,7 @@
 
 ## About Me
 I'm a passionate Backend Developer from Poland, currently pursuing a degree in Computer Science at Vistula University. 
-When I'm not coding, you can find me spiking a volleyball or getting lost in immersive, story-rich video games.
-Go is my primary language of choice. 
+Go is my primary language of choice. When I'm not coding, you can find me spiking a volleyball or getting lost in immersive, story-rich video games.
 
 Explore my open-source projects right here on GitHub!
 
